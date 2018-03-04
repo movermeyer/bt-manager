@@ -2,11 +2,11 @@
 BT-Manager
 ****************************
 
-.. image:: https://pypip.in/version/BT-Manager/badge.png?update
+.. image:: https://img.shields.io/pypi/v/BT-Manager.svg?update=
     :target: https://pypi.python.org/pypi/BT-Manager/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/download/BT-Manager/badge.png?update
+.. image:: https://img.shields.io/pypi/dm/BT-Manager.svg?update=
     :target: https://pypi.python.org/pypi/BT-Manager/
     :alt: Number of PyPI downloads
 
